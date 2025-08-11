@@ -1,0 +1,27 @@
+{
+  "MovementSettings": {
+    "WalkSpeed": 6,
+    "SprintSpeed": 9,
+    "AirControl": 0.6,
+    "Gravity": -20,
+    "GroundStick": -2
+  },
+  "WarlockSettings": {
+    "JumpForce": 6,
+    "GlideForce": 4,
+    "MaxGlideCharge": 100,
+    "GlideDecay": 1
+  },
+  "TitanSettings": {
+    "JumpForce": 6,
+    "LiftForce": 4,
+    "LiftForwardBoost": 4,
+    "MaxLiftCharge": 100,
+    "LiftDecay": 1
+  },
+  "HunterSettings": {
+    "FirstJumpForce": 7,
+    "SecondJumpForce": 6,
+    "ThirdJumpForce": 6
+  }
+}
