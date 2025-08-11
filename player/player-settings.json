@@ -1,27 +1,37 @@
 {
   "MovementSettings": {
-    "WalkSpeed": 6,
-    "SprintSpeed": 9,
+    "WalkSpeed": 6.0,
+    "SprintSpeed": 9.0,
     "AirControl": 0.6,
-    "Gravity": -20,
-    "GroundStick": -2
+    "Gravity": -20.0,
+    "GroundStick": -2.0
+  },
+  "LedgeMantleSettings": {
+    "MantleGraceAfter": 0.12,
+    "MantleMinVerticalVelocity": -10.0,
+    "MantleSpeedSprintMultiplier": 1.25,
+    "LedgeCheckHeight": 1.2,
+    "LedgeForwardRange": 1.0,
+    "MantleDuration": 0.25,
+    "MantleClearanceRadius": 0.35,
+    "MantleMomentumCarry": 0.7
   },
   "WarlockSettings": {
-    "JumpForce": 6,
-    "GlideForce": 4,
-    "MaxGlideCharge": 100,
-    "GlideDecay": 1
+    "JumpForce": 6.0,
+    "GlideForce": 4.0,
+    "MaxGlideCharge": 100.0,
+    "GlideDecay": 1.0
   },
   "TitanSettings": {
-    "JumpForce": 6,
-    "LiftForce": 4,
-    "LiftForwardBoost": 4,
-    "MaxLiftCharge": 100,
-    "LiftDecay": 1
+    "JumpForce": 6.0,
+    "LiftForce": 4.0,
+    "LiftForwardBoost": 4.0,
+    "MaxLiftCharge": 100.0,
+    "LiftDecay": 1.0
   },
   "HunterSettings": {
-    "FirstJumpForce": 7,
-    "SecondJumpForce": 6,
-    "ThirdJumpForce": 6
+    "FirstJumpForce": 7.0,
+    "SecondJumpForce": 6.0,
+    "ThirdJumpForce": 6.0
   }
 }
